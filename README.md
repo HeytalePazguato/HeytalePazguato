@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/heytalepazguato/heytalepazguato/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/heytalepazguato/heytalepazguato/blob/output/github-contribution-grid-snake-dark.svg)
 
 Mechatronic engineer, currently living and working in Japan in an Industrial Automation company
 
