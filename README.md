@@ -6,7 +6,7 @@ Mechatronics engineer with 15+ years in industrial automation, now building deve
 **[Event Horizon](https://github.com/HeytalePazguato/event-horizon)**, an MCP-powered orchestration and observability layer for AI coding agents. VS Code extension, MIT licensed. Runs entirely on your laptop. Exposes a local project knowledge graph, plans and tasks, multi-agent worktrees, and cost insights to Claude Code, Cursor, OpenCode, and Copilot.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HeytalePazguato/event-horizon)
-![GitHub License](https://img.shields.io/github/license/HeytalePazguato/event-horizon)
+![GitHub License](https://img.shields.io/github/license/HeytalePazguato/event-horizon?v=1)
 [![Latest version](https://img.shields.io/github/v/tag/HeytalePazguato/event-horizon?label=version&sort=semver)](https://github.com/HeytalePazguato/event-horizon/releases)
 ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/HeytalePazguato/event-horizon-vscode)
 
