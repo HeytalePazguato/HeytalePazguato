@@ -1,14 +1,24 @@
-![Snake animation](https://github.com/heytalepazguato/heytalepazguato/blob/output/github-contribution-grid-snake-dark.svg)
+# Hi, I'm Jorge Centeno (HeytalePazguato)
 
-Mechatronics engineer with 15+ years in industrial automation.
-Builder of open source dev tools on the side.
+Mechatronics engineer with 15+ years in industrial automation, now building developer tools for the AI coding era.
 
-- Languages: C, C++, C#, TypeScript, JavaScript, PHP, Python
-- IEC 61131-3: ST, LD, IL, CFC, SFC, FBD
-- Frameworks: Laravel, Node.js, PixiJS, .NET
+### Currently building
+**[Event Horizon](https://github.com/HeytalePazguato/event-horizon)**, an MCP-powered orchestration and observability layer for AI coding agents. VS Code extension, MIT licensed. Runs entirely on your laptop. Exposes a local project knowledge graph, plans and tasks, multi-agent worktrees, and cost insights to Claude Code, Cursor, OpenCode, and Copilot.
 
-🚀 Latest: [Event Horizon](https://github.com/HeytalePazguato/event-horizon), visualize your AI coding agents as a living universe.
+![GitHub Repo stars](https://img.shields.io/github/stars/HeytalePazguato/event-horizon)
+![GitHub License](https://img.shields.io/github/license/HeytalePazguato/event-horizon)
+[![Latest version](https://img.shields.io/github/v/tag/HeytalePazguato/event-horizon?label=version&sort=semver)](https://github.com/HeytalePazguato/event-horizon/releases)
+![Open VSX Downloads](https://img.shields.io/open-vsx/dt/HeytalePazguato/event-horizon-vscode)
 
-[![HeytalePazguato Twitter](https://img.shields.io/twitter/follow/HeytalePazguato?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EHeytalePazguato&region=follow_link&screen_name=HeytalePazguato)
+**Install**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HeytalePazguato.event-horizon) · [Open VSX](https://open-vsx.org/extension/HeytalePazguato/event-horizon-vscode)
 
-[![HeytalePazguato StackOverflow](https://github-readme-stackoverflow-beryl.vercel.app/?userID=171630&site=es.stackoverflow)](https://es.stackoverflow.com/users/171630/heytalepazguato)
+### Background
+Industrial automation: PLC programming, motion control, linear transportation systems (SuperTrak, ACOPOStrak, ACOPOS6D/PlanarMotors).
+
+Languages: C, C++, C#, TypeScript, JavaScript, PHP, Python, IEC 61131-3 (ST, LD, IL, CFC, SFC, FBD).
+
+Frameworks: Laravel, Node.js, PixiJS, .NET.
+
+### Find me
+- X / Twitter: [@HeytalePazguato](https://twitter.com/HeytalePazguato)
+- Email: [Heytale.Pazguato@gmail.com](mailto:Heytale.Pazguato@gmail.com)
