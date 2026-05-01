@@ -10,7 +10,7 @@ Mechatronics engineer with 15+ years in industrial automation, now building deve
 [![Latest version](https://img.shields.io/github/v/tag/HeytalePazguato/event-horizon?label=version&sort=semver)](https://github.com/HeytalePazguato/event-horizon/releases)
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/HeytalePazguato/event-horizon-vscode)](https://open-vsx.org/extension/HeytalePazguato/event-horizon-vscode)
 
-**Install**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HeytalePazguato.event-horizon) · [Open VSX](https://open-vsx.org/extension/HeytalePazguato/event-horizon-vscode)
+**Install**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HeytalePazguato.event-horizon-vscode) · [Open VSX](https://open-vsx.org/extension/HeytalePazguato/event-horizon-vscode)
 
 ### Background
 Industrial automation: PLC programming, motion control, linear transportation systems (SuperTrak, ACOPOStrak, ACOPOS6D/PlanarMotors).
