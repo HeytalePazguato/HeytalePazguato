@@ -1,6 +1,6 @@
 # Hi, I'm Jorge Centeno (HeytalePazguato)
 
-Mechatronics engineer with 15+ years in industrial automation, now building developer tools for the AI coding era.
+Mechatronics engineer, 15+ years in industrial automation. Building developer tools at the intersection of factory floor and AI coding.
 
 ### Currently building
 **[Event Horizon](https://github.com/HeytalePazguato/event-horizon)**, an MCP-powered orchestration and observability layer for AI coding agents. VS Code extension, MIT licensed. Runs entirely on your laptop. Exposes a local project knowledge graph, plans and tasks, multi-agent worktrees, and cost insights to Claude Code, Cursor, OpenCode, and Copilot.
